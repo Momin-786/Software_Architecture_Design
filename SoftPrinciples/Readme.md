@@ -8,9 +8,7 @@ The *Indirection* principle is a key software design concept used to reduce dire
 ---
 
 ## What is Indirection?
-
-In simple terms, *Indirection* is the idea of not directly connecting two components but instead using a third party or intermediary to manage their interaction. Instead of having multiple systems tightly coupled and dependent on each other, you decouple them using a middleman. This middleman ensures that each part only needs to know about the intermediary, not the specific details of every other system.
-Indirection means creating a **middleman** that manages interactions between components of a system, preventing them from relying directly on each other. This **decoupling** allows for easy modifications and extensions of individual components without affecting the others.
+Indirection means creating a **middleman** that manages interactions between components of a system, preventing them from relying directly on each other. This **decoupling** allows for easy modifications and extensions of individual components without affecting the others.In simple terms, *Indirection* is the idea of not directly connecting two components but instead using a third party or intermediary to manage their interaction. 
 ---
 
 ## Why Use Indirection?

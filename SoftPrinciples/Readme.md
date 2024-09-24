@@ -81,3 +81,8 @@ java ./code/Main
 
 Happy Learning!
 
+## **Lectue Video**
+
+https://github.com/user-attachments/assets/f4b6a2ae-88b1-4043-9a3d-9b4860ea4976
+
+Happy Learning!

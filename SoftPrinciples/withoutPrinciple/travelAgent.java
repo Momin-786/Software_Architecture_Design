@@ -21,5 +21,5 @@ public class travelAgent {
         booking.bookFlight();
         booking.bookHotel();
         booking.bookCarRental();
-    }
+    } 
 }

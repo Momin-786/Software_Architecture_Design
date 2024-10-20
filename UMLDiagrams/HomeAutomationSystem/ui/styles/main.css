@@ -1,0 +1,15 @@
+/* ui/styles/main.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer {
+    text-align: center;
+    padding: 1rem;
+    background: #f0f0f0;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  

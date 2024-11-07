@@ -3,6 +3,7 @@
 This project is a Java-based Home Automation System that allows users to manage and control lights in different rooms using an intuitive GUI built with Swing. The system follows a layered architecture and incorporates design principles to ensure scalability and maintainability.
 
 ## Table of Contents
+- [Visual Explnation](#overview)
 - [Overview](#overview)
 - [Features](#features)
 - [Architecture](#architecture)
@@ -12,6 +13,9 @@ This project is a Java-based Home Automation System that allows users to manage 
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
 - [Author](#author)
+## Visual Explanation
+
+https://github.com/user-attachments/assets/2faee981-f12b-41eb-9dc3-b6881265ad8b
 
 ## Overview
 The Home Automation System allows users to:

@@ -2,9 +2,9 @@
 
 This repository includes the Model-View-Controller (MVC) pattern with three implementations:
 
-1. GeneralMVC - A basic implementation that can be compiled and executed using the command line.
-2. CarMVC - A slightly advanced implementation that can be executed in VS code.
-3. spbootCAR - Spring Boot example of car object.
+1. GeneralMVC - A basic implementation that can be executed using the command line.
+2. CarMVC - An advanced implementation that can be executed in VS code.
+3. CARspboot - Spring Boot (MVC framework) example of car object that can be executed using instructions below.
    
 # Car MVC Project
 

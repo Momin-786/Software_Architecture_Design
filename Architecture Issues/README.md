@@ -3,8 +3,10 @@
 
 This project demonstrates the **Inefficient Query Generation** issue in Sequelize and provides an optimized solution. The problem occurs when Sequelize generates overly complex queries, fetching unnecessary data, which leads to performance bottlenecks.
 
-https://github.com/user-attachments/assets/856c14ee-a9d9-424b-b929-8f4470023617
+
 ---
+## **Lectue Video**
+https://github.com/user-attachments/assets/856c14ee-a9d9-424b-b929-8f4470023617
 
 ## Project Structure
 

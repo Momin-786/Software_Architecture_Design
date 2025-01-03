@@ -1,4 +1,4 @@
-```markdown
+
 # Sequelize Architectural Problem: Inefficient Query Generation
 
 This project demonstrates the **Inefficient Query Generation** issue in Sequelize and provides an optimized solution. The problem occurs when Sequelize generates overly complex queries, fetching unnecessary data, which leads to performance bottlenecks.
